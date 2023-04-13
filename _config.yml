@@ -14,7 +14,7 @@ baseurl: "https://goraiding.com"
 username: Go Raiding
 # typing_text: This will be typed before 'fill in the survey, scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: data helps us understand, stories truly captivate us.
+typing_text: データは私たちが理解するのを助け、ストーリーは本当に私たちを魅了します。
 # email: Your E-Mail address for the email button.
 # email: 
 # For every social button you want to display, set your username or userid
@@ -32,9 +32,9 @@ twitter_username: generatedart
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Why is the survey important?
+about_me_title: なぜそのアンケートが重要なのですか？
 # about_me_description: This will be displayed under the title.
-about_me_description: The survey is of great importance as it addresses the consequences of Niantic Labs implementing remote raid limitations and price increases, which can effectively exclude a significant portion of the community from participating in raids. Moreover, Niantic Labs' encouragement for players to engage in in-person raids is likely to result in some players using cars to travel between raids. By collecting data through this survey and presenting it in the data visualization below, awareness can be raised regarding the impact of Niantic Labs' decision on inclusiveness, social impact, diversity, and carbon emissions. This information has the potential to guide future decisions, address concerns raised by the community, and provide relevant customer intelligence for media companies and investors.
+about_me_description: この調査は非常に重要です。なぜなら、Niantic Labsがリモートレイド制限と価格上昇を実施することによる影響を取り上げており、これによりコミュニティの大部分がレイドへの参加から事実上除外される可能性があるからです。また、Niantic Labsがプレイヤーに対し、対面でのレイド参加を奨励することで、一部のプレイヤーがレイド間の移動に車を利用する可能性があります。この調査を通じてデータを収集し、以下のデータビジュアライゼーションで提示することで、Niantic Labsの決定が包括性、社会的影響、多様性、および二酸化炭素排出量に与える影響についての認識を高めることができます。この情報は、将来の決定を導く可能性があり、コミュニティが提起する懸念に対処し、メディア企業や投資家にとって関連する顧客インテリジェンスを提供することができます。
 
 
 # SKILLS SECTION
@@ -43,7 +43,7 @@ about_me_description: The survey is of great importance as it addresses the cons
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Survey results
+skills_title: アンケートの結果
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -51,7 +51,7 @@ skills_title: Survey results
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Testimonials
+timeline_title: 体験談、証言
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
@@ -66,7 +66,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Methodology
+projects_title: 方法論
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
@@ -80,7 +80,7 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: To support us
+contact_title: 私たちをサポートするために
 # contact_description: This will be displayed under the title.
 contact_description: follow our main project <a href="http://generatedart.com">GeneratedArt</a> on social media, which features algorithmic artists.
 
