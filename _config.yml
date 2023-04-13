@@ -82,7 +82,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: 私たちをサポートするために
 # contact_description: This will be displayed under the title.
-contact_description: follow our main project <a href="http://generatedart.com">GeneratedArt</a> on social media, which features algorithmic artists.
+contact_description: アルゴリズムアーティストを紹介する主要プロジェクト<a href="http://generatedart.com">GeneratedArt</a>を、ソーシャルメディアでフォローしてください。
 
 # GITHUB-METADATA
 # Set this to your forked repository
